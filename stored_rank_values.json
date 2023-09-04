@@ -1,0 +1,1611 @@
+{
+  "items": [
+    {
+      "player_id": "1f38925e-b410-4458-9e2e-3c54569d614e",
+      "nickname": "dique",
+      "country": "br",
+      "position": 1,
+      "faceit_elo": 5916,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c04082a3-8407-44c4-ab75-edf82ba25852",
+      "nickname": "7DJ_mazola",
+      "country": "br",
+      "position": 2,
+      "faceit_elo": 5692,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c8103e6c-1633-4b0d-88b1-e75134acde1f",
+      "nickname": "bazzo",
+      "country": "br",
+      "position": 3,
+      "faceit_elo": 5420,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2",
+      "nickname": "flameZ-",
+      "country": "il",
+      "position": 4,
+      "faceit_elo": 5307,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "2c6c6b05-beee-4af1-8532-67f1c0b0d66c",
+      "nickname": "gxx-",
+      "country": "xk",
+      "position": 5,
+      "faceit_elo": 5197,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+      "nickname": "Brollan",
+      "country": "se",
+      "position": 6,
+      "faceit_elo": 5053,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e970f4bb-e5f7-4cc5-abc5-8afb52e435bf",
+      "nickname": "xertioN",
+      "country": "il",
+      "position": 7,
+      "faceit_elo": 5045,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "21230674-190e-44e8-9c9f-bd2df450225f",
+      "nickname": "rigoN",
+      "country": "ch",
+      "position": 8,
+      "faceit_elo": 4943,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d682a62e-43f5-49be-b8c9-de923adcf564",
+      "nickname": "SunPayus",
+      "country": "es",
+      "position": 9,
+      "faceit_elo": 4834,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "ccdeeb22-716d-462e-aed5-c6bf4a23b854",
+      "nickname": "Aleksib",
+      "country": "fi",
+      "position": 10,
+      "faceit_elo": 4823,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb2076c4-3fdd-4d2f-b1d4-8a1391d4ff12",
+      "nickname": "hardzaoo",
+      "country": "br",
+      "position": 11,
+      "faceit_elo": 4680,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b63c3037-b9f3-471e-9065-5e33ebc28b6e",
+      "nickname": "s1reN7",
+      "country": "ru",
+      "position": 12,
+      "faceit_elo": 4625,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fddc57f3-b5f8-4e63-99e7-b1fa798e849e",
+      "nickname": "pavlebo",
+      "country": "me",
+      "position": 13,
+      "faceit_elo": 4563,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1a4bfb44-0ab1-40f3-9150-688b04cfe158",
+      "nickname": "history-",
+      "country": "br",
+      "position": 14,
+      "faceit_elo": 4486,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0090092d-eca9-4047-a8c2-7693c494d356",
+      "nickname": "pepe--",
+      "country": "br",
+      "position": 15,
+      "faceit_elo": 4474,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a66cccad-09ee-4222-bb11-b3720e4a7607",
+      "nickname": "kauez_",
+      "country": "br",
+      "position": 16,
+      "faceit_elo": 4470,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0cae2df6-84d4-4fff-936b-87e0b28eab12",
+      "nickname": "NEXA",
+      "country": "rs",
+      "position": 17,
+      "faceit_elo": 4453,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "5d834b85-5d4f-441a-a0e2-a88713818bc8",
+      "nickname": "ottob",
+      "country": "fi",
+      "position": 18,
+      "faceit_elo": 4400,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e6ffb1a4-22e1-45d5-8c26-3fe7c7e899af",
+      "nickname": "nython_",
+      "country": "br",
+      "position": 19,
+      "faceit_elo": 4359,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "749c7501-2390-4567-91e8-4ddc06de60c2",
+      "nickname": "PCC",
+      "country": "br",
+      "position": 20,
+      "faceit_elo": 4313,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "02ec0e68-e807-4dd0-b0d0-6e39d0c19bc8",
+      "nickname": "AKEX_GOD",
+      "country": "py",
+      "position": 21,
+      "faceit_elo": 4258,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a7a354ef-8d74-447b-a3b5-9de0f5881893",
+      "nickname": "--dexter---",
+      "country": "au",
+      "position": 22,
+      "faceit_elo": 4230,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "cf19132b-dd64-48de-b25e-ea99ae459d54",
+      "nickname": "luuid",
+      "country": "br",
+      "position": 23,
+      "faceit_elo": 4213,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c365e0fe-ae29-41d7-b331-ed8904e32d2b",
+      "nickname": "KSCERATO",
+      "country": "br",
+      "position": 24,
+      "faceit_elo": 4212,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "702c9dd5-c84d-42de-942e-58e921fd34d9",
+      "nickname": "drop",
+      "country": "br",
+      "position": 25,
+      "faceit_elo": 4204,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d01968b9-6b62-4fd8-abd4-69e3ac09926b",
+      "nickname": "decenty-",
+      "country": "br",
+      "position": 26,
+      "faceit_elo": 4195,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1162dfe3-9671-4baa-bb47-a3cdbd21e2ae",
+      "nickname": "DavCost666--",
+      "country": "mn",
+      "position": 27,
+      "faceit_elo": 4183,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "86a88e1b-4b9a-4cc0-908f-0ab2dd73268a",
+      "nickname": "REZ",
+      "country": "se",
+      "position": 28,
+      "faceit_elo": 4160,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "cc59db12-f88d-4502-9b1c-8bcc7a3b8bf1",
+      "nickname": "zmbleo1",
+      "country": "br",
+      "position": 29,
+      "faceit_elo": 4146,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "9d913f35-4471-4dc9-b91f-b7a0293e3f9f",
+      "nickname": "dav",
+      "country": "rs",
+      "position": 30,
+      "faceit_elo": 4141,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "87e831cd-1c65-4343-823a-84bb3af3b0af",
+      "nickname": "F1KU",
+      "country": "pl",
+      "position": 31,
+      "faceit_elo": 4141,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8de88a46-bf0d-445f-8439-c965ea927fc0",
+      "nickname": "friberg",
+      "country": "se",
+      "position": 32,
+      "faceit_elo": 4135,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd95f56e-bffc-44af-9fea-e181fce71122",
+      "nickname": "togs",
+      "country": "br",
+      "position": 33,
+      "faceit_elo": 4094,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d6f91f98-d641-465b-aac9-59f7d15fe47b",
+      "nickname": "davzk",
+      "country": "br",
+      "position": 34,
+      "faceit_elo": 4088,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "648af157-90c5-4e69-b0c3-31ae037f4bae",
+      "nickname": "coldzera",
+      "country": "br",
+      "position": 35,
+      "faceit_elo": 4033,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "765d2b9b-ea6e-4b67-bfb5-3d76d74ab95b",
+      "nickname": "Vini--",
+      "country": "br",
+      "position": 36,
+      "faceit_elo": 4024,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d4b6f194-bf19-4d39-9a8a-737dd20bb54e",
+      "nickname": "c3rq",
+      "country": "bg",
+      "position": 37,
+      "faceit_elo": 3949,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "3f005401-8032-4112-abc8-f83d920eb258",
+      "nickname": "tabseN",
+      "country": "de",
+      "position": 38,
+      "faceit_elo": 3943,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c6154c13-83dd-4d8d-997c-e8bbb8ae5199",
+      "nickname": "HEN1-",
+      "country": "br",
+      "position": 39,
+      "faceit_elo": 3941,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb82e628-61fa-4668-a681-f034c7331c0c",
+      "nickname": "pigo-",
+      "country": "br",
+      "position": 40,
+      "faceit_elo": 3934,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "ad4a24ef-2e09-45d1-9d11-0a83f797800d",
+      "nickname": "yepz",
+      "country": "es",
+      "position": 41,
+      "faceit_elo": 3910,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "71ea9955-8400-4553-87a5-4c325923d21f",
+      "nickname": "saadzin_",
+      "country": "br",
+      "position": 42,
+      "faceit_elo": 3859,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "19a920b6-5e98-47b7-aeda-00f273e40525",
+      "nickname": "lux1-",
+      "country": "br",
+      "position": 43,
+      "faceit_elo": 3814,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "45cd23f1-9213-4d93-87b9-26b4bf8720c4",
+      "nickname": "koaLx",
+      "country": "br",
+      "position": 44,
+      "faceit_elo": 3812,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c58c4e47-645a-4a40-a208-01bfdbcdeadd",
+      "nickname": "insani",
+      "country": "br",
+      "position": 45,
+      "faceit_elo": 3805,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "80e9e05a-772b-4ad7-8f7c-17013e573160",
+      "nickname": "-brian",
+      "country": "ar",
+      "position": 46,
+      "faceit_elo": 3798,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "f629b169-d2e3-4c63-bda0-1e58cfdb27c0",
+      "nickname": "perez_y",
+      "country": "br",
+      "position": 47,
+      "faceit_elo": 3781,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "175b1046-459e-4f82-bfa8-262b9527e64d",
+      "nickname": "t9mpest",
+      "country": "br",
+      "position": 48,
+      "faceit_elo": 3777,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e7382285-1f74-426d-972d-d3627f29db89",
+      "nickname": "nolkz-",
+      "country": "br",
+      "position": 49,
+      "faceit_elo": 3748,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "2ce999ac-b2a3-433b-80b5-a6067a874a5a",
+      "nickname": "Ittarinaz",
+      "country": "br",
+      "position": 50,
+      "faceit_elo": 3718,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "83406320-b332-4d23-b599-0ed9c4472a06",
+      "nickname": "honda21",
+      "country": "br",
+      "position": 51,
+      "faceit_elo": 3717,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "17646bdf-89aa-4141-89fc-55f0c1e7d57a",
+      "nickname": "Demonos",
+      "country": "al",
+      "position": 52,
+      "faceit_elo": 3717,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "901cb838-262f-46e6-81f9-04715b50f707",
+      "nickname": "fns_S",
+      "country": "br",
+      "position": 53,
+      "faceit_elo": 3710,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "31a2e314-0318-4b9e-be86-8b3941c6ee2e",
+      "nickname": "WeirdAimm",
+      "country": "tr",
+      "position": 54,
+      "faceit_elo": 3708,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "4226e8f1-40e0-40f4-bdb8-dd30c9107931",
+      "nickname": "n9ppyz",
+      "country": "br",
+      "position": 55,
+      "faceit_elo": 3704,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "832eae8e-da85-4947-a499-3e1f89b504a0",
+      "nickname": "PLUS",
+      "country": "rs",
+      "position": 56,
+      "faceit_elo": 3699,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7559c733-22de-4006-8ba4-aab2d49a9d4a",
+      "nickname": "luknssjgod",
+      "country": "ar",
+      "position": 57,
+      "faceit_elo": 3698,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "01b351c2-6fa6-4f13-a8fb-ed7daeb324ee",
+      "nickname": "alw9ys",
+      "country": "br",
+      "position": 58,
+      "faceit_elo": 3690,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a5fa9e4c-0beb-4b4b-94bf-fbda21fe9fe4",
+      "nickname": "gbb-",
+      "country": "br",
+      "position": 59,
+      "faceit_elo": 3689,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb9b1a15-7018-42fa-864b-48cc70e0d91b",
+      "nickname": "yuurih",
+      "country": "br",
+      "position": 60,
+      "faceit_elo": 3665,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b5c3e65c-bb6c-49d1-ad75-3823b52ce576",
+      "nickname": "danoco",
+      "country": "br",
+      "position": 61,
+      "faceit_elo": 3656,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "3c6ee8f1-a6cc-4f1c-9c35-991bbb706462",
+      "nickname": "nyezin",
+      "country": "br",
+      "position": 62,
+      "faceit_elo": 3650,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8f23c86e-fa6f-465a-85ca-82c1a11f29b1",
+      "nickname": "yfrozzen",
+      "country": "pt",
+      "position": 63,
+      "faceit_elo": 3640,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "88389e8b-60f7-4702-a76c-e58a87fdfd8c",
+      "nickname": "pesaadelo",
+      "country": "br",
+      "position": 64,
+      "faceit_elo": 3626,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fa0d000d-914e-4ca4-8b09-e55bbfb9ede4",
+      "nickname": "s1cklxrd",
+      "country": "hu",
+      "position": 65,
+      "faceit_elo": 3610,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb11aade-ab7b-4b39-95b9-586bddfb0e12",
+      "nickname": "Tuurtlezik",
+      "country": "br",
+      "position": 66,
+      "faceit_elo": 3606,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a881303a-0ffa-40ca-a522-b9595df139ed",
+      "nickname": "mtn_csgo",
+      "country": "ar",
+      "position": 67,
+      "faceit_elo": 3597,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "20e9f61c-8072-4f50-b257-b6b4219669d2",
+      "nickname": "dgtssj",
+      "country": "uy",
+      "position": 68,
+      "faceit_elo": 3597,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a604bd5c-ee4a-49ae-841f-9511f5a0fd24",
+      "nickname": "_watts",
+      "country": "br",
+      "position": 69,
+      "faceit_elo": 3591,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "eac4c82a-1d28-4a4a-a9e2-a9932156c34a",
+      "nickname": "DeStlNy-",
+      "country": "br",
+      "position": 70,
+      "faceit_elo": 3588,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "46da2e0a-0436-448a-b704-24f5c1f9d14b",
+      "nickname": "n1ssim",
+      "country": "br",
+      "position": 71,
+      "faceit_elo": 3578,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1f3173b3-ee01-4017-a436-8916927bed34",
+      "nickname": "jnt_S",
+      "country": "br",
+      "position": 72,
+      "faceit_elo": 3568,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e361e514-9a7b-402f-85e3-12a14ea8c82b",
+      "nickname": "real666",
+      "country": "br",
+      "position": 73,
+      "faceit_elo": 3562,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7839aca6-e8ef-40bf-be32-0b2549b106dd",
+      "nickname": "renzu1523326",
+      "country": "cn",
+      "position": 74,
+      "faceit_elo": 3557,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b8f59688-440f-4715-b279-90c6046ed064",
+      "nickname": "nextzinhp-",
+      "country": "br",
+      "position": 75,
+      "faceit_elo": 3555,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bc37980e-cfa0-4402-98fd-d741b39495f0",
+      "nickname": "lukiz-",
+      "country": "br",
+      "position": 76,
+      "faceit_elo": 3549,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd706a51-499f-4f07-9efc-2b291fdc2cd6",
+      "nickname": "thpp",
+      "country": "br",
+      "position": 77,
+      "faceit_elo": 3547,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c0a979a3-7128-4a06-ba7a-8d6f7e8fbd2f",
+      "nickname": "brnz4n",
+      "country": "br",
+      "position": 78,
+      "faceit_elo": 3546,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8df2459d-14a6-44b9-84dc-bdf0254b2269",
+      "nickname": "vsmm",
+      "country": "br",
+      "position": 79,
+      "faceit_elo": 3546,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d3f7f9b5-436d-4427-bf22-72e409cb7831",
+      "nickname": "DANYARUINA",
+      "country": "ua",
+      "position": 80,
+      "faceit_elo": 3534,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd091fd5-1d8e-4ee7-a6cb-e4cb2a8b30f1",
+      "nickname": "M0nkyzera",
+      "country": "lu",
+      "position": 81,
+      "faceit_elo": 3527,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "f7a3d74d-849a-4c2f-a11e-a703043ace2d",
+      "nickname": "JZ_1",
+      "country": "br",
+      "position": 82,
+      "faceit_elo": 3501,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0d979582-a9a3-4f00-a24e-48f0537c8693",
+      "nickname": "delistaze",
+      "country": "kz",
+      "position": 83,
+      "faceit_elo": 3494,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "002e9b6e-8fbf-402e-af18-1c62667a03ef",
+      "nickname": "1Chelsea1",
+      "country": "ru",
+      "position": 84,
+      "faceit_elo": 3491,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8587f156-4842-411b-bde1-4fdb59fe2b64",
+      "nickname": "kNgV",
+      "country": "br",
+      "position": 85,
+      "faceit_elo": 3489,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "eff87bef-d56c-4922-a000-549479b5720d",
+      "nickname": "leo_drk",
+      "country": "br",
+      "position": 86,
+      "faceit_elo": 3479,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e8208dce-b395-48d7-9765-5a01051f317f",
+      "nickname": "sh9ww",
+      "country": "br",
+      "position": 87,
+      "faceit_elo": 3472,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8ad4c3a7-cf03-4c7a-a462-ddb8132ff2c2",
+      "nickname": "tutehen",
+      "country": "ar",
+      "position": 88,
+      "faceit_elo": 3465,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fe976c18-6735-4eea-be4b-464c4fa250a5",
+      "nickname": "shz-",
+      "country": "br",
+      "position": 89,
+      "faceit_elo": 3448,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "46dc5827-b175-4ae8-b803-d3a26b5f03ab",
+      "nickname": "-zock",
+      "country": "uy",
+      "position": 90,
+      "faceit_elo": 3446,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "16ce5abc-e94f-49c6-9dd1-f9e9631c30cb",
+      "nickname": "HakhaJ",
+      "country": "br",
+      "position": 91,
+      "faceit_elo": 3443,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "75368140-a160-4330-a81f-f5ffcb5c0c6e",
+      "nickname": "short--",
+      "country": "br",
+      "position": 92,
+      "faceit_elo": 3434,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "798a2505-8b8f-45c0-a5b3-1d3e0952112a",
+      "nickname": "J0TAAA-",
+      "country": "br",
+      "position": 93,
+      "faceit_elo": 3430,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "277495a0-f47d-4a56-9e47-ad934f0946c5",
+      "nickname": "-chiasse007-",
+      "country": "br",
+      "position": 94,
+      "faceit_elo": 3422,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7b6887ff-e03d-4c40-8b2e-c95d1e56b2ac",
+      "nickname": "dezoitinho",
+      "country": "br",
+      "position": 95,
+      "faceit_elo": 3419,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "5005ea92-30b7-4d79-bbe4-713e518c47e8",
+      "nickname": "-SkrdeuS-",
+      "country": "br",
+      "position": 96,
+      "faceit_elo": 3417,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "40577cff-70b3-4cee-859e-83d1469bdf47",
+      "nickname": "chelok1ng",
+      "country": "br",
+      "position": 97,
+      "faceit_elo": 3415,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "16bee80b-a016-4783-b0c4-78833fb5f7a4",
+      "nickname": "-seng0ku-",
+      "country": "cn",
+      "position": 98,
+      "faceit_elo": 3415,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fd693de3-cf1a-4515-a85a-d46a793f384f",
+      "nickname": "mynameszz",
+      "country": "de",
+      "position": 99,
+      "faceit_elo": 3410,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "24c9a512-08d1-4e8d-bfa4-bec5d389390b",
+      "nickname": "dragonst4r",
+      "country": "nl",
+      "position": 100,
+      "faceit_elo": 3404,
+      "game_skill_level": 10
+    }
+  ],
+  "start": 0,
+  "end": 100
+}{
+  "items": [
+    {
+      "player_id": "1f38925e-b410-4458-9e2e-3c54569d614e",
+      "nickname": "dique",
+      "country": "br",
+      "position": 1,
+      "faceit_elo": 5916,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c04082a3-8407-44c4-ab75-edf82ba25852",
+      "nickname": "7DJ_mazola",
+      "country": "br",
+      "position": 2,
+      "faceit_elo": 5692,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c8103e6c-1633-4b0d-88b1-e75134acde1f",
+      "nickname": "bazzo",
+      "country": "br",
+      "position": 3,
+      "faceit_elo": 5420,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2",
+      "nickname": "flameZ-",
+      "country": "il",
+      "position": 4,
+      "faceit_elo": 5307,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "2c6c6b05-beee-4af1-8532-67f1c0b0d66c",
+      "nickname": "gxx-",
+      "country": "xk",
+      "position": 5,
+      "faceit_elo": 5197,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+      "nickname": "Brollan",
+      "country": "se",
+      "position": 6,
+      "faceit_elo": 5053,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e970f4bb-e5f7-4cc5-abc5-8afb52e435bf",
+      "nickname": "xertioN",
+      "country": "il",
+      "position": 7,
+      "faceit_elo": 5045,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "21230674-190e-44e8-9c9f-bd2df450225f",
+      "nickname": "rigoN",
+      "country": "ch",
+      "position": 8,
+      "faceit_elo": 4943,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d682a62e-43f5-49be-b8c9-de923adcf564",
+      "nickname": "SunPayus",
+      "country": "es",
+      "position": 9,
+      "faceit_elo": 4834,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "ccdeeb22-716d-462e-aed5-c6bf4a23b854",
+      "nickname": "Aleksib",
+      "country": "fi",
+      "position": 10,
+      "faceit_elo": 4823,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb2076c4-3fdd-4d2f-b1d4-8a1391d4ff12",
+      "nickname": "hardzaoo",
+      "country": "br",
+      "position": 11,
+      "faceit_elo": 4680,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b63c3037-b9f3-471e-9065-5e33ebc28b6e",
+      "nickname": "s1reN7",
+      "country": "ru",
+      "position": 12,
+      "faceit_elo": 4625,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fddc57f3-b5f8-4e63-99e7-b1fa798e849e",
+      "nickname": "pavlebo",
+      "country": "me",
+      "position": 13,
+      "faceit_elo": 4563,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a66cccad-09ee-4222-bb11-b3720e4a7607",
+      "nickname": "kauez_",
+      "country": "br",
+      "position": 14,
+      "faceit_elo": 4472,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1a4bfb44-0ab1-40f3-9150-688b04cfe158",
+      "nickname": "history-",
+      "country": "br",
+      "position": 15,
+      "faceit_elo": 4468,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0cae2df6-84d4-4fff-936b-87e0b28eab12",
+      "nickname": "NEXA",
+      "country": "rs",
+      "position": 16,
+      "faceit_elo": 4453,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0090092d-eca9-4047-a8c2-7693c494d356",
+      "nickname": "pepe--",
+      "country": "br",
+      "position": 17,
+      "faceit_elo": 4440,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "5d834b85-5d4f-441a-a0e2-a88713818bc8",
+      "nickname": "ottob",
+      "country": "fi",
+      "position": 18,
+      "faceit_elo": 4400,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e6ffb1a4-22e1-45d5-8c26-3fe7c7e899af",
+      "nickname": "nython_",
+      "country": "br",
+      "position": 19,
+      "faceit_elo": 4359,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "749c7501-2390-4567-91e8-4ddc06de60c2",
+      "nickname": "PCC",
+      "country": "br",
+      "position": 20,
+      "faceit_elo": 4313,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "02ec0e68-e807-4dd0-b0d0-6e39d0c19bc8",
+      "nickname": "AKEX_GOD",
+      "country": "py",
+      "position": 21,
+      "faceit_elo": 4258,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a7a354ef-8d74-447b-a3b5-9de0f5881893",
+      "nickname": "--dexter---",
+      "country": "au",
+      "position": 22,
+      "faceit_elo": 4230,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "cf19132b-dd64-48de-b25e-ea99ae459d54",
+      "nickname": "luuid",
+      "country": "br",
+      "position": 23,
+      "faceit_elo": 4213,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c365e0fe-ae29-41d7-b331-ed8904e32d2b",
+      "nickname": "KSCERATO",
+      "country": "br",
+      "position": 24,
+      "faceit_elo": 4212,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "702c9dd5-c84d-42de-942e-58e921fd34d9",
+      "nickname": "drop",
+      "country": "br",
+      "position": 25,
+      "faceit_elo": 4204,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d01968b9-6b62-4fd8-abd4-69e3ac09926b",
+      "nickname": "decenty-",
+      "country": "br",
+      "position": 26,
+      "faceit_elo": 4195,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1162dfe3-9671-4baa-bb47-a3cdbd21e2ae",
+      "nickname": "DavCost666--",
+      "country": "mn",
+      "position": 27,
+      "faceit_elo": 4183,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "86a88e1b-4b9a-4cc0-908f-0ab2dd73268a",
+      "nickname": "REZ",
+      "country": "se",
+      "position": 28,
+      "faceit_elo": 4160,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "cc59db12-f88d-4502-9b1c-8bcc7a3b8bf1",
+      "nickname": "zmbleo1",
+      "country": "br",
+      "position": 29,
+      "faceit_elo": 4146,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "9d913f35-4471-4dc9-b91f-b7a0293e3f9f",
+      "nickname": "dav",
+      "country": "rs",
+      "position": 30,
+      "faceit_elo": 4141,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "87e831cd-1c65-4343-823a-84bb3af3b0af",
+      "nickname": "F1KU",
+      "country": "pl",
+      "position": 31,
+      "faceit_elo": 4141,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8de88a46-bf0d-445f-8439-c965ea927fc0",
+      "nickname": "friberg",
+      "country": "se",
+      "position": 32,
+      "faceit_elo": 4135,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd95f56e-bffc-44af-9fea-e181fce71122",
+      "nickname": "togs",
+      "country": "br",
+      "position": 33,
+      "faceit_elo": 4094,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d6f91f98-d641-465b-aac9-59f7d15fe47b",
+      "nickname": "davzk",
+      "country": "br",
+      "position": 34,
+      "faceit_elo": 4088,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "648af157-90c5-4e69-b0c3-31ae037f4bae",
+      "nickname": "coldzera",
+      "country": "br",
+      "position": 35,
+      "faceit_elo": 4033,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "765d2b9b-ea6e-4b67-bfb5-3d76d74ab95b",
+      "nickname": "Vini--",
+      "country": "br",
+      "position": 36,
+      "faceit_elo": 4024,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d4b6f194-bf19-4d39-9a8a-737dd20bb54e",
+      "nickname": "c3rq",
+      "country": "bg",
+      "position": 37,
+      "faceit_elo": 3949,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "3f005401-8032-4112-abc8-f83d920eb258",
+      "nickname": "tabseN",
+      "country": "de",
+      "position": 38,
+      "faceit_elo": 3943,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c6154c13-83dd-4d8d-997c-e8bbb8ae5199",
+      "nickname": "HEN1-",
+      "country": "br",
+      "position": 39,
+      "faceit_elo": 3941,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb82e628-61fa-4668-a681-f034c7331c0c",
+      "nickname": "pigo-",
+      "country": "br",
+      "position": 40,
+      "faceit_elo": 3934,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "ad4a24ef-2e09-45d1-9d11-0a83f797800d",
+      "nickname": "yepz",
+      "country": "es",
+      "position": 41,
+      "faceit_elo": 3910,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "71ea9955-8400-4553-87a5-4c325923d21f",
+      "nickname": "saadzin_",
+      "country": "br",
+      "position": 42,
+      "faceit_elo": 3859,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "19a920b6-5e98-47b7-aeda-00f273e40525",
+      "nickname": "lux1-",
+      "country": "br",
+      "position": 43,
+      "faceit_elo": 3814,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "45cd23f1-9213-4d93-87b9-26b4bf8720c4",
+      "nickname": "koaLx",
+      "country": "br",
+      "position": 44,
+      "faceit_elo": 3812,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c58c4e47-645a-4a40-a208-01bfdbcdeadd",
+      "nickname": "insani",
+      "country": "br",
+      "position": 45,
+      "faceit_elo": 3805,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "80e9e05a-772b-4ad7-8f7c-17013e573160",
+      "nickname": "-brian",
+      "country": "ar",
+      "position": 46,
+      "faceit_elo": 3798,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "175b1046-459e-4f82-bfa8-262b9527e64d",
+      "nickname": "t9mpest",
+      "country": "br",
+      "position": 47,
+      "faceit_elo": 3787,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "f629b169-d2e3-4c63-bda0-1e58cfdb27c0",
+      "nickname": "perez_y",
+      "country": "br",
+      "position": 48,
+      "faceit_elo": 3782,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e7382285-1f74-426d-972d-d3627f29db89",
+      "nickname": "nolkz-",
+      "country": "br",
+      "position": 49,
+      "faceit_elo": 3748,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "2ce999ac-b2a3-433b-80b5-a6067a874a5a",
+      "nickname": "Ittarinaz",
+      "country": "br",
+      "position": 50,
+      "faceit_elo": 3718,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "83406320-b332-4d23-b599-0ed9c4472a06",
+      "nickname": "honda21",
+      "country": "br",
+      "position": 51,
+      "faceit_elo": 3717,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "17646bdf-89aa-4141-89fc-55f0c1e7d57a",
+      "nickname": "Demonos",
+      "country": "al",
+      "position": 52,
+      "faceit_elo": 3717,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "901cb838-262f-46e6-81f9-04715b50f707",
+      "nickname": "fns_S",
+      "country": "br",
+      "position": 53,
+      "faceit_elo": 3710,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "31a2e314-0318-4b9e-be86-8b3941c6ee2e",
+      "nickname": "WeirdAimm",
+      "country": "tr",
+      "position": 54,
+      "faceit_elo": 3708,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "4226e8f1-40e0-40f4-bdb8-dd30c9107931",
+      "nickname": "n9ppyz",
+      "country": "br",
+      "position": 55,
+      "faceit_elo": 3704,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "832eae8e-da85-4947-a499-3e1f89b504a0",
+      "nickname": "PLUS",
+      "country": "rs",
+      "position": 56,
+      "faceit_elo": 3699,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7559c733-22de-4006-8ba4-aab2d49a9d4a",
+      "nickname": "luknssjgod",
+      "country": "ar",
+      "position": 57,
+      "faceit_elo": 3698,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a5fa9e4c-0beb-4b4b-94bf-fbda21fe9fe4",
+      "nickname": "gbb-",
+      "country": "br",
+      "position": 58,
+      "faceit_elo": 3680,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb9b1a15-7018-42fa-864b-48cc70e0d91b",
+      "nickname": "yuurih",
+      "country": "br",
+      "position": 59,
+      "faceit_elo": 3665,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b5c3e65c-bb6c-49d1-ad75-3823b52ce576",
+      "nickname": "danoco",
+      "country": "br",
+      "position": 60,
+      "faceit_elo": 3656,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "01b351c2-6fa6-4f13-a8fb-ed7daeb324ee",
+      "nickname": "alw9ys",
+      "country": "br",
+      "position": 61,
+      "faceit_elo": 3656,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8f23c86e-fa6f-465a-85ca-82c1a11f29b1",
+      "nickname": "yfrozzen",
+      "country": "pt",
+      "position": 62,
+      "faceit_elo": 3640,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "88389e8b-60f7-4702-a76c-e58a87fdfd8c",
+      "nickname": "pesaadelo",
+      "country": "br",
+      "position": 63,
+      "faceit_elo": 3626,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fa0d000d-914e-4ca4-8b09-e55bbfb9ede4",
+      "nickname": "s1cklxrd",
+      "country": "hu",
+      "position": 64,
+      "faceit_elo": 3610,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bb11aade-ab7b-4b39-95b9-586bddfb0e12",
+      "nickname": "Tuurtlezik",
+      "country": "br",
+      "position": 65,
+      "faceit_elo": 3606,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a881303a-0ffa-40ca-a522-b9595df139ed",
+      "nickname": "mtn_csgo",
+      "country": "ar",
+      "position": 66,
+      "faceit_elo": 3597,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "20e9f61c-8072-4f50-b257-b6b4219669d2",
+      "nickname": "dgtssj",
+      "country": "uy",
+      "position": 67,
+      "faceit_elo": 3597,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "3c6ee8f1-a6cc-4f1c-9c35-991bbb706462",
+      "nickname": "nyezin",
+      "country": "br",
+      "position": 68,
+      "faceit_elo": 3594,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "a604bd5c-ee4a-49ae-841f-9511f5a0fd24",
+      "nickname": "_watts",
+      "country": "br",
+      "position": 69,
+      "faceit_elo": 3591,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "eac4c82a-1d28-4a4a-a9e2-a9932156c34a",
+      "nickname": "DeStlNy-",
+      "country": "br",
+      "position": 70,
+      "faceit_elo": 3588,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "46da2e0a-0436-448a-b704-24f5c1f9d14b",
+      "nickname": "n1ssim",
+      "country": "br",
+      "position": 71,
+      "faceit_elo": 3578,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "1f3173b3-ee01-4017-a436-8916927bed34",
+      "nickname": "jnt_S",
+      "country": "br",
+      "position": 72,
+      "faceit_elo": 3568,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "bc37980e-cfa0-4402-98fd-d741b39495f0",
+      "nickname": "lukiz-",
+      "country": "br",
+      "position": 73,
+      "faceit_elo": 3566,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e361e514-9a7b-402f-85e3-12a14ea8c82b",
+      "nickname": "real666",
+      "country": "br",
+      "position": 74,
+      "faceit_elo": 3562,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7839aca6-e8ef-40bf-be32-0b2549b106dd",
+      "nickname": "renzu1523326",
+      "country": "cn",
+      "position": 75,
+      "faceit_elo": 3557,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "b8f59688-440f-4715-b279-90c6046ed064",
+      "nickname": "nextzinhp-",
+      "country": "br",
+      "position": 76,
+      "faceit_elo": 3555,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd706a51-499f-4f07-9efc-2b291fdc2cd6",
+      "nickname": "thpp",
+      "country": "br",
+      "position": 77,
+      "faceit_elo": 3547,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "c0a979a3-7128-4a06-ba7a-8d6f7e8fbd2f",
+      "nickname": "brnz4n",
+      "country": "br",
+      "position": 78,
+      "faceit_elo": 3546,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8df2459d-14a6-44b9-84dc-bdf0254b2269",
+      "nickname": "vsmm",
+      "country": "br",
+      "position": 79,
+      "faceit_elo": 3546,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "5005ea92-30b7-4d79-bbe4-713e518c47e8",
+      "nickname": "-SkrdeuS-",
+      "country": "br",
+      "position": 80,
+      "faceit_elo": 3538,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "d3f7f9b5-436d-4427-bf22-72e409cb7831",
+      "nickname": "DANYARUINA",
+      "country": "ua",
+      "position": 81,
+      "faceit_elo": 3534,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "dd091fd5-1d8e-4ee7-a6cb-e4cb2a8b30f1",
+      "nickname": "M0nkyzera",
+      "country": "lu",
+      "position": 82,
+      "faceit_elo": 3527,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "f7a3d74d-849a-4c2f-a11e-a703043ace2d",
+      "nickname": "JZ_1",
+      "country": "br",
+      "position": 83,
+      "faceit_elo": 3501,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0d979582-a9a3-4f00-a24e-48f0537c8693",
+      "nickname": "delistaze",
+      "country": "kz",
+      "position": 84,
+      "faceit_elo": 3494,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "002e9b6e-8fbf-402e-af18-1c62667a03ef",
+      "nickname": "1Chelsea1",
+      "country": "ru",
+      "position": 85,
+      "faceit_elo": 3491,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8587f156-4842-411b-bde1-4fdb59fe2b64",
+      "nickname": "kNgV",
+      "country": "br",
+      "position": 86,
+      "faceit_elo": 3489,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "eff87bef-d56c-4922-a000-549479b5720d",
+      "nickname": "leo_drk",
+      "country": "br",
+      "position": 87,
+      "faceit_elo": 3479,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "8ad4c3a7-cf03-4c7a-a462-ddb8132ff2c2",
+      "nickname": "tutehen",
+      "country": "ar",
+      "position": 88,
+      "faceit_elo": 3465,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "2afb9303-f70f-4d47-857c-ddc69e3da895",
+      "nickname": "Antuanette",
+      "country": "pe",
+      "position": 89,
+      "faceit_elo": 3456,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "fe976c18-6735-4eea-be4b-464c4fa250a5",
+      "nickname": "shz-",
+      "country": "br",
+      "position": 90,
+      "faceit_elo": 3448,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "544b4f6d-02cf-4f71-a38a-3e40ee91f3c9",
+      "nickname": "xurebaa",
+      "country": "br",
+      "position": 91,
+      "faceit_elo": 3447,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "16ce5abc-e94f-49c6-9dd1-f9e9631c30cb",
+      "nickname": "HakhaJ",
+      "country": "br",
+      "position": 92,
+      "faceit_elo": 3443,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "ba91f87f-c730-46da-b7f4-16217243f83a",
+      "nickname": "leozik4_",
+      "country": "br",
+      "position": 93,
+      "faceit_elo": 3439,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "e8208dce-b395-48d7-9765-5a01051f317f",
+      "nickname": "sh9ww",
+      "country": "br",
+      "position": 94,
+      "faceit_elo": 3438,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "798a2505-8b8f-45c0-a5b3-1d3e0952112a",
+      "nickname": "J0TAAA-",
+      "country": "br",
+      "position": 95,
+      "faceit_elo": 3430,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "277495a0-f47d-4a56-9e47-ad934f0946c5",
+      "nickname": "-chiasse007-",
+      "country": "br",
+      "position": 96,
+      "faceit_elo": 3422,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "0f209d5f-5558-497b-8d97-33596eb2e129",
+      "nickname": "abizz666",
+      "country": "ar",
+      "position": 97,
+      "faceit_elo": 3421,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "7b6887ff-e03d-4c40-8b2e-c95d1e56b2ac",
+      "nickname": "dezoitinho",
+      "country": "br",
+      "position": 98,
+      "faceit_elo": 3419,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "40577cff-70b3-4cee-859e-83d1469bdf47",
+      "nickname": "chelok1ng",
+      "country": "br",
+      "position": 99,
+      "faceit_elo": 3415,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "16bee80b-a016-4783-b0c4-78833fb5f7a4",
+      "nickname": "-seng0ku-",
+      "country": "cn",
+      "position": 100,
+      "faceit_elo": 3415,
+      "game_skill_level": 10
+    }
+  ],
+  "start": 0,
+  "end": 100
+}
